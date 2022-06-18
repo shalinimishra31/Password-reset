@@ -1,0 +1,95 @@
+.navbar-implement{
+    height: 80px;
+width: 100%;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+background: #33A0D9;
+}
+.nav-img{
+    height: 50px;
+width: 185px;
+left: 100px;
+top: 21px;
+border-radius: 0px;
+position: absolute;
+}
+.right-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    gap:76px;
+    margin-right:41px;
+    padding-top:25px;
+    padding-bottom:25px;
+    font-size:20px;
+    font-family: 'Prompt', sans-serif;
+}
+.login-button{
+    font-family: 'Prompt', sans-serif;
+font-size: 20px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+border:1px solid white;
+border-radius:5px;
+padding-left:30px;
+padding-right:30px;
+}
+.flex-pass{
+    display: flex;
+    flex-direction: column;
+    margin-left:400px;
+    margin-right:400px;
+    margin-top:30px;
+    font-family: 'Prompt', sans-serif;
+    font-weight:bold;
+    letter-spacing: 2px;
+}
+.input-pass{
+    height: 40px;
+width: 417px;
+left: 483px;
+top: 425px;
+border-radius: 2px;
+border:2px solid black;
+font-size: 60px;
+/* letter-spacing: 1.2px; */
+}
+.reset{
+    height: 68px;
+width: 441px;
+left: 483px;
+top: 703px;
+border-radius: 10px;
+text-align: center;
+margin-top:20px;
+background-color: black;
+color:white;
+font-family: 'Prompt', sans-serif;
+font-weight:bold;
+letter-spacing: 2px;
+}
+.typo-pass{
+    margin-bottom:8px;
+}
+.re-enter-pass{
+    margin-top:30px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    gap:59px;
+    padding-left:293px;
+    background-color: #33A0D9;
+    padding-top:30px;
+    margin-top:30px;
+}
+.ele{
+    padding-bottom:20px;
+    font-family: 'Prompt', sans-serif;
+font-weight:bold;
+color:white;
+}
